@@ -1,1 +1,1 @@
-def login(email, password): pass
+def login(email, password): return email != '' and password != ''
